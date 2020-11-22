@@ -69,4 +69,5 @@ HANGMAN_PICS=["""
 print('Начнем!')
 print()
 display(HANGMAN_PICS, WORDS)
+print()
 
